@@ -1,0 +1,17 @@
+{
+  "name": "framework-arduino-avr-blinklib",
+  "version": "1.0.3",
+  "description": "Development for Blinks starts here. This codebase includes everything you need to get up and running in the Arduino IDE with Blinks.",
+  "keywords": [
+    "framework",
+    "arduino",
+    "microchip",
+    "avr"
+  ],
+  "homepage": "https://github.com/bigjosh/Move38-Arduino-Platform",
+  "license": "LGPL-2.1-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bigjosh/Move38-Arduino-Platform"
+  }
+}
